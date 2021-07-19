@@ -7,8 +7,6 @@ function multiplicar(num1,num2){
     }
 };
 
-//console.log(multiplicar(5,0));
-
 
 
 module.exports = multiplicar
